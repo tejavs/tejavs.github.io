@@ -1,36 +1,35 @@
-# heading 1
-## Heading 2
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>My Game Dev Portfolio</title>
+  <style>
+    body { font-family: Arial; padding: 2rem; background: #111; color: #eee; }
+    .project { margin-bottom: 2rem; }
+    a { color: #61dafb; }
+  </style>
+</head>
+<body>
+  <h1>Teja VS - Game Developer</h1>
+  <p>Unity | Unreal | C# | Gameplay Systems | Tools</p>
 
-_Italics_
+  <h2>Projects</h2>
+  <div class="project">
+    <h3>🔹 SongBeat</h3>
+    <p>Rhythm-tap game built around Indian music. Inspired by Beatstar.</p>
+    <a href="[https://github.com/yourname/songbeat](https://play.google.com/store/apps/details?id=com.hungamagamestudio.sb&hl=en_IN)">Play / Download</a>
+  </div>
 
-**Strong/Bold**
+  <div class="project">
+    <h3>🔹 Bollywood Go</h3>
+    <p>Monopoly-style board game with tile-based movement and upgrades.</p>
+    <a href="https://yourgamepage.com">Play / Download</a>
+  </div>
 
-~~10000~~ **99**
-
-Links
-[Visit Website](https://www.linkedin.com/in/sai-teja-9250a816a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlowHdJ2tQv2Qx32sxKqfug%3D%3D)
-
-Use `for` loop
-
-```javascript
-var name = "Teja";
-console.log(name)
-
-```
-
-Tables
-
-| Table | Goes | Here  |
-| ----- | ---- | ----- |
-| one   | Two  | Three |
-
->Keep smiling and work harder
-
----
-1. List one
-2. List two
-3. List three
-   1.List four
-- List four
-
-***
+  <h2>Contact</h2>
+  <p>Email: saitejavenneti@email.com</p>
+  <p>LinkedIn: <a href="[https://linkedin.com/in/yourname](https://www.linkedin.com/in/sai-teja-9250a816a/)">yourname</a></p>
+</body>
+</html>
