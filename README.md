@@ -23,9 +23,9 @@
   </div>
 
   <div class="project">
-    <h3>🔹 Bollywood Go</h3>
+    <h3>🔹 Spin Rill Go</h3>
     <p>Monopoly-style board game with tile-based movement and upgrades.</p>
-    <a href="https://yourgamepage.com">Play / Download</a>
+    <a href="[https://yourgamepage.com](https://play.google.com/store/apps/details?id=com.hungamagamestudio.newsnr)">Play / Download</a>
   </div>
 
   <h2>Contact</h2>
