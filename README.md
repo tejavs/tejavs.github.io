@@ -30,6 +30,6 @@
 
   <h2>Contact</h2>
   <p>Email: saitejavenneti@email.com</p>
-  <p>LinkedIn: <a href="[https://linkedin.com/in/yourname](https://www.linkedin.com/in/sai-teja-9250a816a/)">yourname</a></p>
+  <p>LinkedIn: <a href="[https://linkedin.com/in/yourname](https://www.linkedin.com/in/sai-teja-9250a816a/)">Sai Teja</a></p>
 </body>
 </html>
